@@ -49,10 +49,15 @@ Depuis la carte ou un tableau :
 ---------------------------------Organisation des fichiers à la base du serveur SSH ------------------------------------------------
 /
 ├── css/
+
 │   └── style_projet.css
+
 │
+
 ├── img/
+
 │   ├── logo.jpg
+
 │   └── vue-aerienne-du-cargo-porte-conteneurs-en-mer.jpg
 │
 ├── js/
