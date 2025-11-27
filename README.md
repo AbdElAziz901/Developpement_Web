@@ -59,36 +59,65 @@ Depuis la carte ou un tableau :
 │   ├── logo.jpg
 
 │   └── vue-aerienne-du-cargo-porte-conteneurs-en-mer.jpg
-│
-├── js/
-│   ├── cluster.js
-│   ├── etat.js
-│   ├── predict_type.js
-│   ├── trajectoire.js
-│   └── visualisation.js
-│
-├── php/
-│   ├── basededonnees.php
-│   ├── cluster.php
-│   ├── constantes.php
-│   ├── etat.php
-│   ├── formulaire.php
-│   ├── predict_type.php
-│   ├── trajectoire.php
-│   └── visualisation.php
-│
-├── python/
-│   ├── cluster.py
-│   ├── predict_type.py
-│   ├── trajectoire.py
-│   └── type.py
-│
-├── cluster.html
-├── formulaire.html
-├── pageaccueil.html
-├── predict_type.html
-├── trajectoire.html
-└── visualisation.html
 
+│
+
+├── js/
+
+│   ├── cluster.js
+
+│   ├── etat.js
+
+│   ├── predict_type.js
+
+│   ├── trajectoire.js
+
+│   └── visualisation.js
+
+│
+
+├── php/
+
+│   ├── basededonnees.php
+
+│   ├── cluster.php
+
+│   ├── constantes.php
+
+│   ├── etat.php
+
+│   ├── formulaire.php
+
+│   ├── predict_type.php
+
+│   ├── trajectoire.php
+
+│   └── visualisation.php
+
+│
+
+├── python/
+
+│   ├── cluster.py
+
+│   ├── predict_type.py
+
+│   ├── trajectoire.py
+
+│   └── type.py
+
+│
+
+├── cluster.html
+
+├── formulaire.html
+
+├── pageaccueil.html
+
+├── predict_type.html
+
+├── trajectoire.html
+
+└── visualisation.html
 
 ---------------------------------------------------------------------------------------------------------------------------------------
