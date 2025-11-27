@@ -47,8 +47,7 @@ Depuis la carte ou un tableau :
 5. Le **résultat est renvoyé au navigateur** et affiché à l'utilisateur.
 
 ---------------------------------Organisation des fichiers à la base du serveur SSH ------------------------------------------------
-/               (root of your project)
-│
+/
 ├── css/
 │   └── style_projet.css
 │
